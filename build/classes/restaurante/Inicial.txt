@@ -1,0 +1,40 @@
+tiempoSprog:        8                
+mesonEnt:           20             
+mesonPF:            30            
+mesonPost:          10             
+inicialCEnt:        1               
+inicialCPF:         2          
+inicialCPost:       0           
+maxCEnt:            3             
+maxCPF:             4              
+maxCPost:           2             
+inicialMes:         2                
+maxMes:             6             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
